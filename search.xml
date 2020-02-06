@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>UE4材质（01）常用材质表达式及快捷键</title>
+    <url>/2020/02/06/UE4%E6%9D%90%E8%B4%A8%EF%BC%8801%EF%BC%89%E5%B8%B8%E7%94%A8%E6%9D%90%E8%B4%A8%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8F%8A%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
+    <content><![CDATA[<h2 id="最常用的八个材质表达式："><a href="#最常用的八个材质表达式：" class="headerlink" title="最常用的八个材质表达式："></a>最常用的八个材质表达式：</h2><table>
+<thead>
+<tr>
+<th align="left">名称</th>
+<th align="center">搜索名</th>
+<th align="center">快捷键</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">纹理坐标</td>
+<td align="center">TextureCoordinate</td>
+<td align="center">U</td>
+</tr>
+<tr>
+<td align="left">常量</td>
+<td align="center">Constant</td>
+<td align="center">1/2/3/4 鼠标左键（一维，二维，三维，四维）</td>
+</tr>
+<tr>
+<td align="left">平移</td>
+<td align="center">Panner</td>
+<td align="center">P</td>
+</tr>
+<tr>
+<td align="left">相乘</td>
+<td align="center">Multiply</td>
+<td align="center">M</td>
+</tr>
+<tr>
+<td align="left">线性插值</td>
+<td align="center">Lerp</td>
+<td align="center">L</td>
+</tr>
+</tbody></table>
+]]></content>
+      <tags>
+        <tag>UE4</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>搭建自己的第一个博客</title>
     <url>/2020/02/05/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p>第一次搭建博客，折腾了一整天，终于从无到有创建了属于自己的博客，虽然没有涉及到最底层的核心原理，但是感觉也还是蛮不错的。</p>
